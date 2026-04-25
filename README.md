@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Nabil
 
 💻 Web Developer & Code Enthusiast
+🧠 Currently learning Backend Development and working to build a career in Web Development
 
 ---
 
