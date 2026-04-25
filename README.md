@@ -11,6 +11,7 @@
 ![HTML](https://img.shields.io/badge/HTML-orange?logo=html5\&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-blue?logo=css3\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript\&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-purple?logo=php\&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-brown?logo=mariadb\&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-blue?logo=dart\&logoColor=white)
