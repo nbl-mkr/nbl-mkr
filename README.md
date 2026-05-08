@@ -31,6 +31,12 @@
 
 ---
 
+## 📈 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=nbl-mkr&theme=tokyonight)
+
+---
+
 ## 🌐 Connect With Me
 
 * Instagram: https://www.instagram.com/nbl.mkr/
