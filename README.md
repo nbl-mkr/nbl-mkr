@@ -13,6 +13,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript\&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-purple?logo=php\&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-brown?logo=mariadb\&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-blue?logo=dart\&logoColor=white)
