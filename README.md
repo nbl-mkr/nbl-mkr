@@ -2,7 +2,7 @@
 
 💻 Web Developer & Code Enthusiast
 
-🧠 Currently learning Backend Development and working to build a career in Web Development
+🧠 Currently learning Web Frameworks and working to build a career in Web Development
 
 ---
 
