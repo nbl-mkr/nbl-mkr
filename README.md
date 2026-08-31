@@ -25,13 +25,13 @@
 
 ## 📊 GitHub Stats  
 
-![Nabil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nbl-mkr&show_icons=true&theme=tokyonight&cache_seconds=86400)
+![Nabil's GitHub stats](https://github-readme-stats-rust-beta-76.vercel.app/api?username=nbl-mkr&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
 ---
 
 ## 🔥 Most Used Languages  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nbl-mkr&layout=compact&theme=tokyonight&cache_seconds=86400)
+![Top Langs](https://github-readme-stats-rust-beta-76.vercel.app/api/top-langs/?username=nbl-mkr&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 ---
 
