@@ -33,7 +33,7 @@ I am a Web Developer and Code Enthusiast currently focusing on web frameworks an
 <br>
 <hr>
 
-## 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white" alt="HTML" />
@@ -52,7 +52,7 @@ I am a Web Developer and Code Enthusiast currently focusing on web frameworks an
 
 ---
 
-## 📊 GitHub Stats  
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats-rust-beta-76.vercel.app/api?username=nbl-mkr&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="Nabil's GitHub stats" />
@@ -60,7 +60,7 @@ I am a Web Developer and Code Enthusiast currently focusing on web frameworks an
 
 ---
 
-## 🔥 Most Used Languages  
+<h2 align="center">🔥 Most Used Languages</h2>
 
 <p align="center">
   <img src="https://github-readme-stats-rust-beta-76.vercel.app/api/top-langs/?username=nbl-mkr&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Top Langs" />
