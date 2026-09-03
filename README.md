@@ -79,6 +79,12 @@ I am a Web Developer and Code Enthusiast currently focusing on web frameworks an
 
   <br>
 
+  <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31jxkrz2p5fwrzm7g243jlszugcq">
+    <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31jxkrz2p5fwrzm7g243jlszugcq" alt="Data Card for Spotify">
+  </a>
+
+  <br>
+
 </div>
 
 <br>
