@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1c1c1c&height=160&text=Muhammad%20Nabil%20Makarim%20Rofi'i&fontSize=38&fontColor=ffffff&desc=Web%20Developer%20%7C%20Code%20Enthusiast%20%7C%20Full-Stack%20Learner&descSize=18&descAlignY=68" width="100%" alt="Header Card" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1c1c1c&height=160&text=Muhammad%20Nabil%20Makarim%20Rofi'i&fontSize=38&fontColor=ffffff&desc=Student%20of%20Malang%20State%20Vocational%20High%20School%204&descSize=18&descAlignY=68" width="100%" alt="Header Card" />
 </div>
 
 <h1 align="center">Hi, I'm Nabil Makarim</h1>
@@ -69,7 +69,7 @@ I am a Web Developer and Code Enthusiast currently focusing on web frameworks an
 <br>
 <hr>
 
-<h2 align="center">🎵 My Spotify Playlist</h2>
+<h2 align="center">🎵 My Spotify Status</h2>
 
 <div align="center">
 
@@ -79,8 +79,8 @@ I am a Web Developer and Code Enthusiast currently focusing on web frameworks an
 
   <br><br>
 
-  <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31jxkrz2p5fwrzm7g243jlszugcq">
-    <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31jxkrz2p5fwrzm7g243jlszugcq" alt="Data Card for Spotify">
+  <a href="https://spotify-github-profile.kittinanx.com/">
+    <img src="https://novatool.vercel.app/api/spotify?user_id=31jxkrz2p5fwrzm7g243jlszugcq&theme=dark" alt="Spotify Top Tracks" width="400">
   </a>
 
 </div>
@@ -89,7 +89,7 @@ I am a Web Developer and Code Enthusiast currently focusing on web frameworks an
 
 <div align="center">
   <h3>
-    ⭐️ From <a href="https://github.com/nbl-mkr">Muhammad Nabil Makarim Rofi'i</a> | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
+    From <a href="https://github.com/nbl-mkr">Muhammad Nabil Makarim Rofi'i</a> | Let's innovate together!
   </h3>
 </div>
 
