@@ -77,7 +77,7 @@ I am a Web Developer and Code Enthusiast currently focusing on web frameworks an
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31jxkrz2p5fwrzm7g243jlszugcq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false" alt="Spotify Player">
   </a>
 
-  <br><br>
+  <br>
 
 </div>
 
