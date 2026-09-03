@@ -79,17 +79,13 @@ I am a Web Developer and Code Enthusiast currently focusing on web frameworks an
 
   <br><br>
 
-  <a href="https://spotify-github-profile.kittinanx.com/">
-    <img src="https://novatool.vercel.app/api/spotify?user_id=31jxkrz2p5fwrzm7g243jlszugcq&theme=dark" alt="Spotify Top Tracks" width="400">
-  </a>
-
 </div>
 
 <br>
 
 <div align="center">
   <h3>
-    From <a href="https://github.com/nbl-mkr">Muhammad Nabil Makarim Rofi'i</a> | Let's innovate together!
+    From <a href="https://github.com/nbl-mkr">Muhammad Nabil Makarim Rofi'i</a> | Let's build something awesome!
   </h3>
 </div>
 
