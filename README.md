@@ -1,9 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
 <div align="center">
-  <a href="">
-    <img width="100%" src="https://cardivo.vercel.app/api?name=Muhammad%20Nabil%20Makarim%20Rofi'i&description=Web%20Developer%20%26%20Code%20Enthusiast.%20Passionate%20about%20building%20modern%20web%20applications%20using%20JavaScript%2C%20TypeScript%2C%20React%2C%20Next.js%2C%20PHP%2C%20and%20Flutter.&backgroundColor=%23ecf0f1&colorPattern=%23eaeaea&instagram=nbl.mkr&github=nbl-mkr" alt="Nabil's Card" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1c1c1c&height=160&text=Muhammad%20Nabil%20Makarim%20Rofi'i&fontSize=38&fontColor=ffffff&desc=Web%20Developer%20%7C%20Code%20Enthusiast%20%7C%20Full-Stack%20Learner&descSize=18&descAlignY=68" width="100%" alt="Header Card" />
 </div>
 
 <h1 align="center">Hi, I'm Nabil Makarim</h1>
@@ -20,9 +18,9 @@
   <h2>🌐 Connect with Me</h2>
   <p>Discover my work and connect on these platforms!</p>
 
-| Instagram | GitHub |
-| :---: | :---: |
-| [![Instagram](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fnbl.mkr%2F&subtitle=@nbl.mkr&size=square)](https://www.instagram.com/nbl.mkr/) | [![GitHub](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fnbl-mkr&subtitle=@nbl-mkr&size=square)](https://github.com/nbl-mkr) |
+| GitHub | Instagram | LinkedIn | Discord |
+| :---: | :---: | :---: | :---: |
+| [![GitHub](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fnbl-mkr&subtitle=@nbl-mkr&size=square)](https://github.com/nbl-mkr) | [![Instagram](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fnbl.mkr%2F&subtitle=@nbl.mkr&size=square)](https://www.instagram.com/nbl.mkr/) | [![LinkedIn](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2F&subtitle=LinkedIn&size=square)](https://www.linkedin.com/in/) | [![Discord](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.com%2Fusers%2F771869581768654868&subtitle=Discord&size=square)](https://discord.com/users/771869581768654868) |
 
 </div>
 
