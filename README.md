@@ -22,7 +22,7 @@
 
 | GitHub | Instagram | LinkedIn | Discord |
 | :---: | :---: | :---: | :---: |
-| [![GitHub](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fnbl-mkr&subtitle=@nbl-mkr&size=square)](https://github.com/nbl-mkr) | [![Instagram](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fnbl.mkr%2F&subtitle=@nbl.mkr&size=square)](https://www.instagram.com/nbl.mkr/) | [![LinkedIn](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2F&subtitle=LinkedIn&size=square)](https://www.linkedin.com/in/) | [![Discord](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.com%2Fusers%2F771869581768654868&subtitle=Discord&size=square)](https://discord.com/users/771869581768654868) |
+| [![GitHub](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fnbl-mkr&subtitle=nbl-mkr&size=square)](https://github.com/nbl-mkr) | [![Instagram](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fnbl.mkr%2F&subtitle=nbl.mkr&size=square)](https://www.instagram.com/nbl.mkr/) | [![LinkedIn](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2F&subtitle=nabil-makarim&size=square)](https://www.linkedin.com/in/) | [![Discord](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.com%2Fusers%2F771869581768654868&subtitle=.Nbl&size=square)](https://discord.com/users/771869581768654868) |
 
 </div>
 
