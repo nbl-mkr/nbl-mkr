@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/nbl-mkr">
-    <img width="100%" src="https://cardivo.vercel.app/api?name=Muhammad%20Nabil%20Makarim%20Rofi'i&description=Vocational%20High%20School%20Student%20at%20SMKN%204%20Malang%20majoring%20in%20Software%20Engineering.%20Passionate%20about%20Frontend%20Web%20Development.%20Continuously%20building%20interactive%20web%20applications%20and%20improving%20UI%2FUX%20design%20skills.&image=https%3A%2F%2Fraw.githubusercontent.com%2Fnbl-mkr%2Fnbl-mkr%2Fmain%2Fphoto_profile.jpg&backgroundColor=%23ecf0f1&colorPattern=%23eaeaea&instagram=instagram&linkedin=linkedin&github=nbl-mkr" alt="Muhammad Nabil Makarim Rofi'i's Card" />
+    <img width="100%" src="https://cardivo.vercel.app/api?name=Muhammad%20Nabil%20Makarim%20Rofi'i&description=Vocational%20High%20School%20Student%20at%20SMKN%204%20Malang%20majoring%20in%20Software%20Engineering.%20Passionate%20about%20Frontend%20Web%20Development,%20building%20interactive%20web%20applications,%20and%20improving%20UI%2FUX%20skills.&image=https%3A%2F%2Fraw.githubusercontent.com%2Fnbl-mkr%2Fnbl-mkr%2Fmain%2Fphoto_profile.jpg&backgroundColor=%23ecf0f1&colorPattern=%23eaeaea&instagram=instagram&linkedin=linkedin&github=nbl-mkr" alt="Muhammad Nabil Makarim Rofi'i's Card" />
   </a>
 </div>
 
